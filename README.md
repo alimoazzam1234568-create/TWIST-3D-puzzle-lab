@@ -87,3 +87,6 @@ than faked — the engine architecture (below) is built to accept them.
   state in 3D with a confirmation step, then solve it with the same engine.
 - Reduction solver (centers → edge pairing → 3×3 stage) with parity handling for 4×4+.
 - Additional puzzle families noted above, plus state import/export.
+## link vist
+# Twist — 3D Rubik's Cube & Twisty Puzzle Lab
+https://01a1961b-9b0a-7aa9-9056-c3c3252f7d0a.arena.site/
